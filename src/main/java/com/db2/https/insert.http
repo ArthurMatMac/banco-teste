@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/funcionarios/
+Content-Type: application/json
+
+{
+  "nome":"Claudio",
+  "cargo":"Analista de RH",
+  "data_admissao":"2023-01-10",
+  "salario":1000.00,
+  "departamento":"Recursos Humanos"
+}

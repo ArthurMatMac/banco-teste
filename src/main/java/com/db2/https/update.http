@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/api/funcionarios/atualizar/152
+Content-Type: application/json
+
+
+{
+  "salario":5.45
+}
